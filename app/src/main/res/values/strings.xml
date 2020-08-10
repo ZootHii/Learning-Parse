@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ParseProject</string>
+    <string name="title_activity_create_account">CreateAccountActivity</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="title_activity_feed">FeedActivity</string>
+    <string name="tab_text_1">Feed</string>
+    <string name="tab_text_2">Upload</string>
+    <string name="tab_text_3">Profile</string>
+</resources>
