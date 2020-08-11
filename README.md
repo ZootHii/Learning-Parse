@@ -15,7 +15,7 @@
   </p>
   
 <p align="center">
-  I did this project because I am trying to see how the camre apps and the other concepts work and such things. 
+  I did this project because I am trying to see how the camera apps and the other concepts work and such things. 
   </p>
   
 <p align="center">
