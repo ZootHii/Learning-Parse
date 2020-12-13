@@ -7,7 +7,7 @@
   </p>
   
 <p align="center">
- <b>Not completed</b>  because parse is old and has some problems that I can't solve but still you can share photos that you take with your camera or that you chose the photo from your gallery.
+ <b>Not completed</b>  because Parse is old and has some problems that I can't solve but still you can share photos that you take with your camera or that you chose the photo from your gallery.
   
  </p>
 <p align="center">
